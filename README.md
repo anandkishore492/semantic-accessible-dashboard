@@ -77,6 +77,7 @@ The project includes:
 semantic-accessible-dashboard-liart.vercel.app
 
 ## GitHub Repository
+https://github.com/anandkishore492/semantic-accessible-dashboard
 
 ## Technologies
 
