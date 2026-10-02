@@ -52,6 +52,31 @@ The project includes:
 2. Users
 3. Reports
 
+# E-Commerce Store
+
+## Project Description
+
+
+## API
+
+## Authentication
+
+## CRUD Operations
+
+## Local Storage
+
+## Responsive Design
+
+## Installation
+
+## How to Run
+
+## Screenshots
+
+## Live Demo
+
+## GitHub Repository
+
 ## Technologies
 
 - HTML5
@@ -59,4 +84,4 @@ The project includes:
 
 ## Author
 
-Anand Kishore Boragadda
+Asif Ali Shaik
