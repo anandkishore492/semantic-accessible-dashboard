@@ -74,6 +74,7 @@ The project includes:
 ## Screenshots
 
 ## Live Demo
+semantic-accessible-dashboard-liart.vercel.app
 
 ## GitHub Repository
 
@@ -84,4 +85,5 @@ The project includes:
 
 ## Author
 
-Asif Ali Shaik
+Anand kishore
+
